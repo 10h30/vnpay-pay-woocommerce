@@ -2,7 +2,7 @@
 /**
  * Plugin Name: VNPAY
  * Description: Integrate VNPAY paygate into Woocommerce
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: VNPAY
  * Author URI: http://vnpayment.vnpay.vn/
  * License: NHT
